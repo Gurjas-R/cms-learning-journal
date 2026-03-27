@@ -1,13 +1,14 @@
 # Week 1 – Basic Web Design
 
 ## Learning Activities & Resources
-For this weeks topic I focused on revising and relearning basic HTML and Git Commits to build the simple static website about a startup idea for practical 1. I read the bootstrap documents and used the template as suggested by the practical instruction then worked off it to add images and text creating a simple static 3 page website. I used a W3 schools document to make the nav bar to connect the 3 pages as I had forgotten how to create a nav bar. Then published it using Git pages and used the guide for Git pages to do son as I had never done so before. 
+For this weeks topic I focused on revising and relearning basic HTML and Git Commits to build the simple static website about a startup idea for practical 1. I read the bootstrap documents and used the template as suggested by the practical instruction then worked off it to add images and text creating a simple static 3 page website. I used a W3 schools document to make the nav bar to connect the 3 pages as I had forgotten how to create a nav bar. Then published it using Git pages and used the guide for Git pages to do son as I had never done so before. I had also read through the linked learning resource given for the weekly calander.
 
 Resources I used were The Bootstrap template, GitHub Pages guide, W3Schools HTML tutorials.
 
 https://getbootstrap.com/docs/ - Bootstrap
 https://docs.github.com/en/pages - Github Pages
 https://www.w3schools.com/howto/howto_js_topnav.asp - W3 Schools
+https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245 - Linked IN
 
 ## Estimated Hours
 3 - 4 hours.
