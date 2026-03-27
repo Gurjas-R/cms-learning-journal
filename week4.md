@@ -1,4 +1,4 @@
-# Week 1 – Local Development & Deployment
+# Week 4 – Local Development & Deployment
 
 ## Learning Activities & Resources
 This week I learned about development and deployment workflows and how websites move from a local environment to a live server. I completed LinkedIn Learning courses on the modern web design process, version control, and WordPress migration. These resources helped me understand how developers plan, build, test, and deploy websites, and how version control is used to manage changes to a project.
