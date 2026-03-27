@@ -5,6 +5,7 @@ With this weeks content I learned about Content Management Systems and in partic
 
 Resources I used.
 The Joomla guide I used - https://guide.joomla.org
+Weekly Learning Resource - https://www.linkedin.com/learning/wordpress-essential-training-24651128
 
 ## Estimated Hours
 2-3
