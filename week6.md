@@ -3,6 +3,8 @@
 ## Learning Activities & Resources
 This week I learned about project management and how teams organise and manage web development projects. Then as a group we set up GitHub for version control and used a trello board to organise tasks and track progress.
 
+Resources I read:
+https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings
 
 ## Estimated Hours
 2 hours
